@@ -1,0 +1,248 @@
+[
+    {
+        "title": "Đường Ngã Tư Hàng Xanh, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "id": "here:af:street:Dtj.Rp-l5fzLLcpdNoB25D",
+        "language": "vi",
+        "resultType": "street",
+        "address": {
+            "label": "Đường Ngã Tư Hàng Xanh, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+            "countryCode": "VNM",
+            "countryName": "Việt Nam",
+            "county": "Hồ Chí Minh",
+            "city": "Quận Bình Thạnh",
+            "district": "Phường 17",
+            "street": "Đường Ngã Tư Hàng Xanh",
+            "postalCode": "72321"
+        },
+        "position": {
+            "lat": 10.80131,
+            "lng": 106.71131
+        },
+        "distance": 28,
+        "mapView": {
+            "west": 106.71129,
+            "south": 10.80114,
+            "east": 106.71134,
+            "north": 10.80147
+        }
+    },
+    {
+        "title": "Trạm Thu Phí Sân Bay Tân Sơn Nhất",
+        "id": "here:pds:place:704w3gve-e8d9ff4f21a85a03dd6964316990593d",
+        "language": "vi",
+        "resultType": "place",
+        "address": {
+            "label": "Trạm Thu Phí Sân Bay Tân Sơn Nhất, Đường A2 Sân Bay Tân Sơn Nhất, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+            "countryCode": "VNM",
+            "countryName": "Việt Nam",
+            "county": "Hồ Chí Minh",
+            "city": "Quận Tân Bình",
+            "district": "Phường 2",
+            "street": "Đường A2 Sân Bay Tân Sơn Nhất",
+            "postalCode": "72108"
+        },
+        "position": {
+            "lat": 10.8135,
+            "lng": 106.66465
+        },
+        "access": [
+            {
+                "lat": 10.81357,
+                "lng": 106.66479
+            }
+        ],
+        "distance": 14,
+        "categories": [
+            {
+                "id": "400-4100-0326",
+                "name": "Trạm thu phí",
+                "primary": true
+            }
+        ],
+        "references": [
+            {
+                "supplier": {
+                    "id": "core"
+                },
+                "id": "1226190437"
+            }
+        ]
+    },
+    {
+        "title": "Ngã Tư Bảy Hiền",
+        "id": "here:pds:place:704xjxn4-c6c5626290e0095e2572daf9fe6988f1",
+        "language": "vi",
+        "resultType": "place",
+        "address": {
+            "label": "Ngã Tư Bảy Hiền, Đường Hoàng Văn Thụ, Phường 4, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+            "countryCode": "VNM",
+            "countryName": "Việt Nam",
+            "county": "Hồ Chí Minh",
+            "city": "Quận Tân Bình",
+            "district": "Phường 4",
+            "street": "Đường Hoàng Văn Thụ",
+            "postalCode": "72106"
+        },
+        "position": {
+            "lat": 10.79283,
+            "lng": 106.65348
+        },
+        "access": [
+            {
+                "lat": 10.79291,
+                "lng": 106.65337
+            }
+        ],
+        "distance": 12,
+        "categories": [
+            {
+                "id": "400-4100-0041",
+                "name": "Dịch vụ vận chuyển",
+                "primary": true
+            },
+            {
+                "id": "400-4100-0043",
+                "name": "Giao thông công cộng tại địa phương hoặc khu vực"
+            }
+        ],
+        "contacts": [
+            {
+                "phone": [
+                    {
+                        "value": "+842838663333"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Công Viên Hoàng Văn Thụ",
+        "id": "here:pds:place:704w3gv7-c1bc8e3cf0cc4e69b3d2b80178a4f2ef",
+        "language": "vi",
+        "resultType": "place",
+        "address": {
+            "label": "Công Viên Hoàng Văn Thụ, Đường Phan Thúc Duyện, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+            "countryCode": "VNM",
+            "countryName": "Việt Nam",
+            "county": "Hồ Chí Minh",
+            "city": "Quận Tân Bình",
+            "district": "Phường 2",
+            "street": "Đường Phan Thúc Duyện",
+            "postalCode": "72108"
+        },
+        "position": {
+            "lat": 10.8021,
+            "lng": 106.66423
+        },
+        "access": [
+            {
+                "lat": 10.8022,
+                "lng": 106.66429
+            }
+        ],
+        "distance": 80,
+        "categories": [
+            {
+                "id": "550-5510-0202",
+                "name": "Công viên hoặc sân chơi giải trí",
+                "primary": true
+            },
+            {
+                "id": "350-3550-0336",
+                "name": "Tự nhiên hoặc địa lý"
+            }
+        ],
+        "references": [
+            {
+                "supplier": {
+                    "id": "core"
+                },
+                "id": "1059285173"
+            }
+        ],
+        "contacts": [
+            {
+                "phone": [
+                    {
+                        "value": "+842838475529",
+                        "categories": [
+                            {
+                                "id": "550-5510-0202"
+                            }
+                        ]
+                    },
+                    {
+                        "value": "+84838475529"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Tiệm Vàng Ngọc Thảo",
+        "id": "here:pds:place:7041r4ve-5069ecb0de43039aa25d3fbd9ab81eb6",
+        "language": "vi",
+        "resultType": "place",
+        "address": {
+            "label": "Tiệm Vàng Ngọc Thảo, 495 Đường Bạch Đằng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+            "countryCode": "VNM",
+            "countryName": "Việt Nam",
+            "county": "Hồ Chí Minh",
+            "city": "Quận Bình Thạnh",
+            "district": "Phường 2",
+            "street": "Đường Bạch Đằng",
+            "postalCode": "72319",
+            "houseNumber": "495"
+        },
+        "position": {
+            "lat": 10.80266,
+            "lng": 106.6987
+        },
+        "access": [
+            {
+                "lat": 10.8027,
+                "lng": 106.69867
+            }
+        ],
+        "distance": 12,
+        "categories": [
+            {
+                "id": "600-6900-0101",
+                "name": "Hoa & Đồ trang sức",
+                "primary": true
+            },
+            {
+                "id": "600-6900-0356",
+                "name": "Thợ kim hoàn"
+            }
+        ],
+        "contacts": [
+            {
+                "phone": [
+                    {
+                        "value": "+842838430603",
+                        "categories": [
+                            {
+                                "id": "600-6900-0101"
+                            }
+                        ]
+                    },
+                    {
+                        "value": "+84838430603"
+                    }
+                ]
+            }
+        ],
+        "payment": {
+            "methods": [
+                {
+                    "id": "cash",
+                    "currencies": [
+                        "VND"
+                    ],
+                    "accepted": true
+                }
+            ]
+        }
+    }
+]
