@@ -18,7 +18,6 @@
             "lat": 10.80131,
             "lng": 106.71131
         },
-        "distance": 28,
         "mapView": {
             "west": 106.71129,
             "south": 10.80114,
@@ -51,7 +50,6 @@
                 "lng": 106.66479
             }
         ],
-        "distance": 14,
         "categories": [
             {
                 "id": "400-4100-0326",
@@ -140,7 +138,6 @@
                 "lng": 106.66429
             }
         ],
-        "distance": 80,
         "categories": [
             {
                 "id": "550-5510-0202",
@@ -243,6 +240,49 @@
                     "accepted": true
                 }
             ]
+        }
+    },
+    {
+        "title": "HIGHWAY3",
+        "id": "here:pds:place:704a89d6-f0fe1a16468c6d99f38730ccfe131c9a",
+        "language": "vi",
+        "resultType": "place",
+        "address": {
+          "label": "HIGHWAY3, 367 Đường Lê Văn Sỹ, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+          "countryCode": "VNM",
+          "countryName": "Việt Nam",
+          "county": "Hồ Chí Minh",
+          "city": "Quận Tân Bình",
+          "district": "Phường 2",
+          "street": "Đường Lê Văn Sỹ",
+          "postalCode": "72108",
+          "houseNumber": "367"
+        },
+        "position": {
+          "lat": 10.79707,
+          "lng": 106.6645
+        },
+        "access": [
+          {
+            "lat": 10.79711,
+            "lng": 106.66453
+          }
+        ],
+        "distance": 9,
+        "categories": [
+          {
+            "id": "600-6800-0000",
+            "name": "Quần áo & Phụ kiện",
+            "primary": true
+          }
+        ],
+        "payment": {
+          "methods": [
+            {
+              "id": "mastercard",
+              "accepted": true
+            }
+          ]
         }
     }
 ]

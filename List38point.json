@@ -1,0 +1,2443 @@
+[
+    {
+      "title": "Nhà Thuốc Hồng Ân",
+      "id": "here:pds:place:704xjxn4-22421862598807ead5073c2df767ee58",
+      "resultType": "place",
+      "address": {
+        "label": "Nhà Thuốc Hồng Ân, 110A Đường Đặng Văn Ngữ, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 10",
+        "street": "Đường Đặng Văn Ngữ",
+        "postalCode": "72218",
+        "houseNumber": "110A"
+      },
+      "position": {
+        "lat": 10.79374,
+        "lng": 106.66902
+      },
+      "access": [
+        {
+          "lat": 10.79374,
+          "lng": 106.66902
+        }
+      ],
+      "distance": 4,
+      "categories": [
+        {
+          "id": "600-6400-0000",
+          "name": "Nhà thuốc/Hiệu thuốc",
+          "primary": true
+        },
+        {
+          "id": "600-6400-0069",
+          "name": "Nhà thuốc",
+          "primary": false
+        },
+        {
+          "id": "600-6400-0070",
+          "name": "Hiệu thuốc",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Cửa Hàng Văn Phòng Phẩm 155",
+      "id": "here:pds:place:7041r4ve-cd943e9d63f902052ed1ebf003f767d7",
+      "resultType": "place",
+      "address": {
+        "label": "Cửa Hàng Văn Phòng Phẩm 155, 155 Đường Bùi Thị Xuân, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 2",
+        "street": "Đường Bùi Thị Xuân",
+        "postalCode": "72108",
+        "houseNumber": "155"
+      },
+      "position": {
+        "lat": 10.79566,
+        "lng": 106.66395
+      },
+      "access": [
+        {
+          "lat": 10.79566,
+          "lng": 106.66395
+        }
+      ],
+      "distance": 3,
+      "categories": [
+        {
+          "id": "700-7400-0141",
+          "name": "Dịch vụ kinh doanh",
+          "primary": true
+        },
+        {
+          "id": "600-6700-0087",
+          "name": "Hiệu sách",
+          "primary": false
+        },
+        {
+          "id": "600-6900-0000",
+          "name": "Hàng tiêu dùng",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Quán Ăn Ngô Đồng",
+      "id": "here:pds:place:704xjxn4-be3fb9159ee000e5e56502c9332a8094",
+      "resultType": "place",
+      "address": {
+        "label": "Quán Ăn Ngô Đồng, 320 Đường Lê Văn Sỹ, Phường 1, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 1",
+        "street": "Đường Lê Văn Sỹ",
+        "postalCode": "72107",
+        "houseNumber": "320"
+      },
+      "position": {
+        "lat": 10.79705,
+        "lng": 106.66468
+      },
+      "access": [
+        {
+          "lat": 10.79701,
+          "lng": 106.66465
+        }
+      ],
+      "distance": 8,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Nhà hàng",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Nhà Thuốc Hồng Ân",
+      "id": "here:pds:place:704xjxn4-22421862598807ead5073c2df767ee58",
+      "resultType": "place",
+      "address": {
+        "label": "Nhà Thuốc Hồng Ân, 110A Đường Đặng Văn Ngữ, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 10",
+        "street": "Đường Đặng Văn Ngữ",
+        "postalCode": "72218",
+        "houseNumber": "110A"
+      },
+      "position": {
+        "lat": 10.79374,
+        "lng": 106.66902
+      },
+      "access": [
+        {
+          "lat": 10.79374,
+          "lng": 106.66902
+        }
+      ],
+      "distance": 2,
+      "categories": [
+        {
+          "id": "600-6400-0000",
+          "name": "Nhà thuốc/Hiệu thuốc",
+          "primary": true
+        },
+        {
+          "id": "600-6400-0069",
+          "name": "Nhà thuốc",
+          "primary": false
+        },
+        {
+          "id": "600-6400-0070",
+          "name": "Hiệu thuốc",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Viện Y Dược Học Dân Tộc Thành Phố Hồ Chí Minh",
+      "id": "here:pds:place:704xjxn4-e6f471a3143106bcdd67a958027ee429",
+      "resultType": "place",
+      "address": {
+        "label": "Viện Y Dược Học Dân Tộc Thành Phố Hồ Chí Minh, 275 Đường Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 10",
+        "street": "Đường Nguyễn Văn Trỗi",
+        "postalCode": "72218",
+        "houseNumber": "275"
+      },
+      "position": {
+        "lat": 10.79791,
+        "lng": 106.67152
+      },
+      "access": [
+        {
+          "lat": 10.79795,
+          "lng": 106.67154
+        }
+      ],
+      "distance": 6,
+      "categories": [
+        {
+          "id": "800-8000-0158",
+          "name": "Dịch vụ y tế hoặc phòng khám",
+          "primary": true
+        },
+        {
+          "id": "700-7200-0272",
+          "name": "Dịch vụ chăm sóc sức khỏe \u0026 dịch vụ hỗ trợ",
+          "primary": false
+        },
+        {
+          "id": "800-8000-0000",
+          "name": "Bệnh viện hoặc cơ sở chăm sóc sức khỏe",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Văn Phòng Quốc Hội Vụ Công Tác Phía Nam",
+      "id": "here:pds:place:704xjxn4-aaeefcea95fb0ad1bb1ebf20f0f9c009",
+      "resultType": "place",
+      "address": {
+        "label": "Văn Phòng Quốc Hội Vụ Công Tác Phía Nam, 56 Đường Nguyễn Văn Trỗi, Phường 11, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 11",
+        "street": "Đường Nguyễn Văn Trỗi",
+        "postalCode": "72206",
+        "houseNumber": "56"
+      },
+      "position": {
+        "lat": 10.79423,
+        "lng": 106.67801
+      },
+      "access": [
+        {
+          "lat": 10.79417,
+          "lng": 106.67796
+        }
+      ],
+      "distance": 8,
+      "categories": [
+        {
+          "id": "800-8100-0171",
+          "name": "Văn phòng chính phủ",
+          "primary": true
+        },
+        {
+          "id": "800-8100-0000",
+          "name": "Cơ Sở Chính Phủ hoặc Cộng Đồng",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "MobiFone Phu Nhuan",
+      "id": "here:pds:place:704w3gv7-fb47ff9ebd16822ca0bfe7a2f19a72ef",
+      "resultType": "place",
+      "address": {
+        "label": "MobiFone Phu Nhuan, 207 Đường Phan Đình Phùng, Phường 17, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 17",
+        "street": "Đường Phan Đình Phùng",
+        "postalCode": "72208",
+        "houseNumber": "207"
+      },
+      "position": {
+        "lat": 10.79576,
+        "lng": 106.68194
+      },
+      "access": [
+        {
+          "lat": 10.7958,
+          "lng": 106.68198
+        }
+      ],
+      "distance": 9,
+      "categories": [
+        {
+          "id": "700-7100-0000",
+          "name": "Liên lạc và truyền thông",
+          "primary": true
+        },
+        {
+          "id": "600-6500-0073",
+          "name": "Cửa hàng bán lẻ điện thoại di động",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Udon Cafe",
+      "id": "here:pds:place:704xjxn4-2d4193d18e5105c33c2077ddb208ad50",
+      "resultType": "place",
+      "address": {
+        "label": "Udon Cafe, 144 Đường Phan Xích Long, Phường 2, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 2",
+        "street": "Đường Phan Xích Long",
+        "postalCode": "72210",
+        "houseNumber": "144"
+      },
+      "position": {
+        "lat": 10.79856,
+        "lng": 106.68749
+      },
+      "access": [
+        {
+          "lat": 10.79859,
+          "lng": 106.6875
+        }
+      ],
+      "distance": 12,
+      "categories": [
+        {
+          "id": "100-1000-0007",
+          "name": "Cafeteria",
+          "primary": true
+        },
+        {
+          "id": "100-1100-0000",
+          "name": "Cà Phê/Trà",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Cửa Hàng Tạp Hoá Su Su",
+      "id": "here:pds:place:704w3gv7-8cef61c743d6a4d6e3f2d8caaa42fdfd",
+      "resultType": "place",
+      "address": {
+        "label": "Cửa Hàng Tạp Hoá Su Su, 68 Đường Phan Xích Long, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 3",
+        "street": "Đường Phan Xích Long",
+        "postalCode": "72317",
+        "houseNumber": "68"
+      },
+      "position": {
+        "lat": 10.79726,
+        "lng": 106.69368
+      },
+      "access": [
+        {
+          "lat": 10.79727,
+          "lng": 106.6936
+        }
+      ],
+      "distance": 7,
+      "categories": [
+        {
+          "id": "600-6000-0061",
+          "name": "Cửa hàng tiện lợi",
+          "primary": true
+        },
+        {
+          "id": "600-6300-0066",
+          "name": "Siêu thị",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Shop Bán Túi Xách Đẹp Ở TPHCM - Shop Ví Nữ TPHCM - Balo Mini TPHCM",
+      "id": "here:pds:place:704w3gvk-4f3bd6a6ce294aed82e800ad6de88893",
+      "resultType": "place",
+      "address": {
+        "label": "Shop Bán Túi Xách Đẹp Ở TPHCM - Shop Ví Nữ TPHCM - Balo Mini TPHCM, 2 Đường Đinh Tiên Hoàng, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 3",
+        "street": "Đường Đinh Tiên Hoàng",
+        "postalCode": "72317",
+        "houseNumber": "2"
+      },
+      "position": {
+        "lat": 10.80058,
+        "lng": 106.69662
+      },
+      "access": [
+        {
+          "lat": 10.80058,
+          "lng": 106.69641
+        }
+      ],
+      "distance": 18,
+      "categories": [
+        {
+          "id": "600-6900-0096",
+          "name": "Cửa hàng chuyên dụng",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "DongA Bank",
+      "id": "here:pds:place:704jx7ps-e3bfb8c7e3d004d7f7b4a0350afdbbd4",
+      "resultType": "place",
+      "address": {
+        "label": "DongA Bank, 68 Đường Bạch Đằng, Phường 24, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 24",
+        "street": "Đường Bạch Đằng",
+        "postalCode": "72307",
+        "houseNumber": "68"
+      },
+      "position": {
+        "lat": 10.80305,
+        "lng": 106.70946
+      },
+      "access": [
+        {
+          "lat": 10.80298,
+          "lng": 106.70945
+        }
+      ],
+      "distance": 10,
+      "categories": [
+        {
+          "id": "700-7000-0107",
+          "name": "Ngân hàng",
+          "primary": true
+        },
+        {
+          "id": "700-7010-0108",
+          "name": "Máy rút tiền ATM",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Khách Sạn Nhật Bình",
+      "id": "here:pds:place:704w3gvk-8817f6ca867f84fe585c14b5da4e960a",
+      "resultType": "place",
+      "address": {
+        "label": "Khách Sạn Nhật Bình, 555 Đường Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 25",
+        "street": "Đường Xô Viết Nghệ Tĩnh",
+        "postalCode": "72308",
+        "houseNumber": "555"
+      },
+      "position": {
+        "lat": 10.81003,
+        "lng": 106.71256
+      },
+      "access": [
+        {
+          "lat": 10.80999,
+          "lng": 106.7126
+        }
+      ],
+      "distance": 10,
+      "categories": [
+        {
+          "id": "500-5000-0053",
+          "name": "Khách sạn",
+          "primary": true
+        },
+        {
+          "id": "500-5000-0000",
+          "name": "Khách sạn hoặc nhà trọ",
+          "primary": false
+        },
+        {
+          "id": "500-5100-0000",
+          "name": "Nhà nghỉ",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Sửa Xe Rửa Xe Thay Nhớt",
+      "id": "here:pds:place:704xjxn4-afe2912457a20c9afe39c7d4524d3e00",
+      "resultType": "place",
+      "address": {
+        "label": "Sửa Xe Rửa Xe Thay Nhớt, 860 Đường Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 25",
+        "street": "Đường Xô Viết Nghệ Tĩnh",
+        "postalCode": "72308",
+        "houseNumber": "860"
+      },
+      "position": {
+        "lat": 10.81313,
+        "lng": 106.71631
+      },
+      "access": [
+        {
+          "lat": 10.81317,
+          "lng": 106.71628
+        }
+      ],
+      "distance": 11,
+      "categories": [
+        {
+          "id": "700-7200-0268",
+          "name": "Bảo dưỡng \u0026 bảo trì xe máy",
+          "primary": true
+        },
+        {
+          "id": "700-7850-0000",
+          "name": "Sửa chữa hoặc bảo dưỡng ô tô",
+          "primary": false
+        },
+        {
+          "id": "700-7850-0121",
+          "name": "Dịch vụ rửa xe \u0026 phụ kiện đi kèm",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Thế Giới Mắt Kính Việt Thắng",
+      "id": "here:pds:place:704w3gvs-28fbcf7f83d642a5873c7e1a82c2bded",
+      "resultType": "place",
+      "address": {
+        "label": "Thế Giới Mắt Kính Việt Thắng, 123 Đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 26",
+        "street": "Đường Nguyễn Xí",
+        "postalCode": "72310",
+        "houseNumber": "123"
+      },
+      "position": {
+        "lat": 10.81336,
+        "lng": 106.7095
+      },
+      "access": [
+        {
+          "lat": 10.81336,
+          "lng": 106.7095
+        }
+      ],
+      "distance": 6,
+      "categories": [
+        {
+          "id": "600-6900-0096",
+          "name": "Cửa hàng chuyên dụng",
+          "primary": true
+        },
+        {
+          "id": "600-6900-0000",
+          "name": "Hàng tiêu dùng",
+          "primary": false
+        },
+        {
+          "id": "600-6900-0101",
+          "name": "Hoa \u0026 Đồ trang sức",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Thành Phát",
+      "id": "here:pds:place:704w3gvs-1162dab285af4123a16245444f080910",
+      "resultType": "place",
+      "address": {
+        "label": "Thành Phát, 476 Đường Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 13",
+        "street": "Đường Nơ Trang Long",
+        "postalCode": "72311",
+        "houseNumber": "476"
+      },
+      "position": {
+        "lat": 10.81996,
+        "lng": 106.70393
+      },
+      "access": [
+        {
+          "lat": 10.81999,
+          "lng": 106.70387
+        }
+      ],
+      "distance": 10,
+      "categories": [
+        {
+          "id": "600-6900-0096",
+          "name": "Cửa hàng chuyên dụng",
+          "primary": true
+        },
+        {
+          "id": "600-6300-0244",
+          "name": "Hiệu bánh",
+          "primary": false
+        },
+        {
+          "id": "600-6500-0072",
+          "name": "Cửa hàng điện tử gia dụng",
+          "primary": false
+        },
+        {
+          "id": "700-7250-0136",
+          "name": "Doanh nghiệp",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Công Ty TNHH Duy Quang",
+      "id": "here:pds:place:704w3gvd-5b1f60926bbc41c09ddd1f4a09b699dc",
+      "resultType": "place",
+      "address": {
+        "label": "Công Ty TNHH Duy Quang, 243/2/40 Đường Chu Văn An, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 12",
+        "street": "Đường Chu Văn An",
+        "postalCode": "72312",
+        "houseNumber": "243/2/40"
+      },
+      "position": {
+        "lat": 10.81098,
+        "lng": 106.70113
+      },
+      "access": [
+        {
+          "lat": 10.81102,
+          "lng": 106.70114
+        }
+      ],
+      "distance": 8,
+      "categories": [
+        {
+          "id": "700-7400-0141",
+          "name": "Dịch vụ kinh doanh",
+          "primary": true
+        },
+        {
+          "id": "600-6900-0096",
+          "name": "Cửa hàng chuyên dụng",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Tiệm Vàng Quan Phát",
+      "id": "here:pds:place:704xjxn4-feef39614b170cba255ebfd2dabd52e6",
+      "resultType": "place",
+      "address": {
+        "label": "Tiệm Vàng Quan Phát, 174 Đường Phan Văn Trị, Phường 12, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 12",
+        "street": "Đường Phan Văn Trị",
+        "postalCode": "72312",
+        "houseNumber": "174"
+      },
+      "position": {
+        "lat": 10.81119,
+        "lng": 106.69562
+      },
+      "access": [
+        {
+          "lat": 10.81114,
+          "lng": 106.69554
+        }
+      ],
+      "distance": 14,
+      "categories": [
+        {
+          "id": "600-6900-0096",
+          "name": "Cửa hàng chuyên dụng",
+          "primary": true
+        },
+        {
+          "id": "600-6300-0064",
+          "name": "Đặc sản \u0026 Đồ uống",
+          "primary": false
+        },
+        {
+          "id": "600-6600-0078",
+          "name": "Cửa hàng bán đồ gia dụng/Nội thất",
+          "primary": false
+        },
+        {
+          "id": "600-6600-0080",
+          "name": "Phụ kiện nội thất và gia đình",
+          "primary": false
+        },
+        {
+          "id": "600-6900-0101",
+          "name": "Hoa \u0026 Đồ trang sức",
+          "primary": false
+        },
+        {
+          "id": "600-6900-0356",
+          "name": "Thợ kim hoàn",
+          "primary": false
+        },
+        {
+          "id": "700-7400-0149",
+          "name": "May mặc \u0026 Sửa đồ may mặc",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Mắt Kính Thái Việt Anh",
+      "id": "here:pds:place:704w3gve-145050cc7f5b4d1286ac0d2dc6a206c4",
+      "resultType": "place",
+      "address": {
+        "label": "Mắt Kính Thái Việt Anh, 317 Đường Lê Quang Định, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 11",
+        "street": "Đường Lê Quang Định",
+        "postalCode": "72313",
+        "houseNumber": "317"
+      },
+      "position": {
+        "lat": 10.81125,
+        "lng": 106.69097
+      },
+      "access": [
+        {
+          "lat": 10.81127,
+          "lng": 106.69101
+        }
+      ],
+      "distance": 4,
+      "categories": [
+        {
+          "id": "800-8000-0161",
+          "name": "Chuyên gia nhãn khoa",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Ministop-Lê Quang Định",
+      "id": "here:pds:place:704jx7ps-2297c7b10a52068d25a0d26827ae663b",
+      "resultType": "place",
+      "address": {
+        "label": "Ministop-Lê Quang Định, 484 Đường Lê Quang Định, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 11",
+        "street": "Đường Lê Quang Định",
+        "postalCode": "72313",
+        "houseNumber": "484"
+      },
+      "position": {
+        "lat": 10.8155,
+        "lng": 106.68867
+      },
+      "access": [
+        {
+          "lat": 10.81557,
+          "lng": 106.68878
+        }
+      ],
+      "distance": 7,
+      "categories": [
+        {
+          "id": "600-6000-0061",
+          "name": "Cửa hàng tiện lợi",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "B's Mart",
+      "id": "here:pds:place:704w3gve-eea54748a78e4ee0a96dd09505e115dc",
+      "resultType": "place",
+      "address": {
+        "label": "B's Mart, 43 Đường Nguyễn Thượng Hiền, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 5",
+        "street": "Đường Nguyễn Thượng Hiền",
+        "postalCode": "72314",
+        "houseNumber": "43"
+      },
+      "position": {
+        "lat": 10.81445,
+        "lng": 106.68681
+      },
+      "access": [
+        {
+          "lat": 10.8145,
+          "lng": 106.68679
+        }
+      ],
+      "distance": 12,
+      "categories": [
+        {
+          "id": "600-6000-0061",
+          "name": "Cửa hàng tiện lợi",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Cửa Hàng Đại Lý Kim Phụng",
+      "id": "here:pds:place:704w3gve-64fa16b39faa49aa9b55c673f807a84c",
+      "resultType": "place",
+      "address": {
+        "label": "Cửa Hàng Đại Lý Kim Phụng, 182 Đường Nguyễn Văn Đậu, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 5",
+        "street": "Đường Nguyễn Văn Đậu",
+        "postalCode": "72314",
+        "houseNumber": "182"
+      },
+      "position": {
+        "lat": 10.81072,
+        "lng": 106.69032
+      },
+      "access": [
+        {
+          "lat": 10.81076,
+          "lng": 106.69028
+        }
+      ],
+      "distance": 12,
+      "categories": [
+        {
+          "id": "600-6600-0080",
+          "name": "Phụ kiện nội thất và gia đình",
+          "primary": true
+        },
+        {
+          "id": "600-6600-0078",
+          "name": "Cửa hàng bán đồ gia dụng/Nội thất",
+          "primary": false
+        },
+        {
+          "id": "600-6900-0000",
+          "name": "Hàng tiêu dùng",
+          "primary": false
+        },
+        {
+          "id": "600-6900-0096",
+          "name": "Cửa hàng chuyên dụng",
+          "primary": false
+        },
+        {
+          "id": "600-6900-0105",
+          "name": "Bán Vinyl, CD và Video",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Đông Á - ATM",
+      "id": "here:pds:place:704xjxn4-acc2dafd65c20cccb5e6586dce395bb7",
+      "resultType": "place",
+      "address": {
+        "label": "Đông Á - ATM, 131 Đường Hoàng Hoa Thám, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 5",
+        "street": "Đường Hoàng Hoa Thám",
+        "postalCode": "72314",
+        "houseNumber": "131"
+      },
+      "position": {
+        "lat": 10.80834,
+        "lng": 106.68803
+      },
+      "access": [
+        {
+          "lat": 10.80837,
+          "lng": 106.68804
+        }
+      ],
+      "distance": 5,
+      "categories": [
+        {
+          "id": "700-7010-0108",
+          "name": "Máy rút tiền ATM",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Trà Sữa Tamiti",
+      "id": "here:pds:place:704w3gv7-ef225d26c14c03d1a656971f6eea10f2",
+      "resultType": "place",
+      "address": {
+        "label": "Trà Sữa Tamiti, 211 Đường Hoàng Hoa Thám, Phường 5, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 5",
+        "street": "Đường Hoàng Hoa Thám",
+        "postalCode": "72215",
+        "houseNumber": "211"
+      },
+      "position": {
+        "lat": 10.80992,
+        "lng": 106.68395
+      },
+      "access": [
+        {
+          "lat": 10.80995,
+          "lng": 106.68397
+        }
+      ],
+      "distance": 2,
+      "categories": [
+        {
+          "id": "600-6300-0064",
+          "name": "Đặc sản \u0026 Đồ uống",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Chùa Đông Thành Tự",
+      "id": "here:pds:place:704jx7ps-b812a8da69bb0e0a6d00840ad0842c94",
+      "resultType": "place",
+      "address": {
+        "label": "Chùa Đông Thành Tự, 101 Đường Nguyễn Thượng Hiền, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 5",
+        "street": "Đường Nguyễn Thượng Hiền",
+        "postalCode": "72314",
+        "houseNumber": "101"
+      },
+      "position": {
+        "lat": 10.81069,
+        "lng": 106.68434
+      },
+      "access": [
+        {
+          "lat": 10.81083,
+          "lng": 106.68422
+        }
+      ],
+      "distance": 20,
+      "categories": [
+        {
+          "id": "300-3200-0376",
+          "name": "Chùa",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Dạy Kèm Tiếng Anh",
+      "id": "here:pds:place:704w3gve-3d8226e45b45428da3675bdb19595be0",
+      "resultType": "place",
+      "address": {
+        "label": "Dạy Kèm Tiếng Anh, 134 Đường Nguyễn Thái Sơn, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Gò Vấp",
+        "district": "Phường 3",
+        "street": "Đường Nguyễn Thái Sơn",
+        "postalCode": "71409",
+        "houseNumber": "134"
+      },
+      "position": {
+        "lat": 10.81876,
+        "lng": 106.68244
+      },
+      "access": [
+        {
+          "lat": 10.81884,
+          "lng": 106.68232
+        }
+      ],
+      "distance": 5,
+      "categories": [
+        {
+          "id": "800-8200-0295",
+          "name": "Đào tạo \u0026 Phát triển",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Cửa Hàng Điện Thoại Di Động At",
+      "id": "here:pds:place:704xjxn4-2fa0e774e0e80abefecda8664bc1ed01",
+      "resultType": "place",
+      "address": {
+        "label": "Cửa Hàng Điện Thoại Di Động At, 627 Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Gò Vấp",
+        "district": "Phường 3",
+        "street": "Đường Nguyễn Kiệm",
+        "postalCode": "71409",
+        "houseNumber": "627"
+      },
+      "position": {
+        "lat": 10.82199,
+        "lng": 106.67885
+      },
+      "access": [
+        {
+          "lat": 10.82199,
+          "lng": 106.67887
+        }
+      ],
+      "distance": 0,
+      "categories": [
+        {
+          "id": "600-6900-0096",
+          "name": "Cửa hàng chuyên dụng",
+          "primary": true
+        },
+        {
+          "id": "600-6500-0072",
+          "name": "Cửa hàng điện tử gia dụng",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Aromatic",
+      "id": "here:pds:place:704w3gve-d249a193f221f0d853e2dceed6095ee6",
+      "resultType": "place",
+      "address": {
+        "label": "Aromatic, 457 Hẻm 465 Đường Nguyễn Văn Công, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Gò Vấp",
+        "district": "Phường 3",
+        "street": "Hẻm 465 Đường Nguyễn Văn Công",
+        "postalCode": "71409",
+        "houseNumber": "457"
+      },
+      "position": {
+        "lat": 10.81806,
+        "lng": 106.67607
+      },
+      "access": [
+        {
+          "lat": 10.81808,
+          "lng": 106.67608
+        }
+      ],
+      "distance": 8,
+      "categories": [
+        {
+          "id": "100-1100-0010",
+          "name": "Quán cà phê",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0009",
+          "name": "Quán ăn nhanh",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Bếp Mạ",
+      "id": "here:pds:place:704w3gve-9e1feae77d15f94348c8a93e16dce15d",
+      "resultType": "place",
+      "address": {
+        "label": "Bếp Mạ, 189 Đường Bạch Đằng, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Gò Vấp",
+        "district": "Phường 3",
+        "street": "Đường Bạch Đằng",
+        "postalCode": "71409",
+        "houseNumber": "189"
+      },
+      "position": {
+        "lat": 10.81532,
+        "lng": 106.67577
+      },
+      "access": [
+        {
+          "lat": 10.81527,
+          "lng": 106.67575
+        }
+      ],
+      "distance": 11,
+      "categories": [
+        {
+          "id": "600-6300-0064",
+          "name": "Đặc sản \u0026 Đồ uống",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Nhà hàng",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Khách Sạn Nguyễn Đức",
+      "id": "here:pds:place:704xjxn4-ace227a1448e074305a9a157a72b4414",
+      "resultType": "place",
+      "address": {
+        "label": "Khách Sạn Nguyễn Đức, A75/6 Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 2",
+        "street": "Bạch Đằng",
+        "postalCode": "72108",
+        "houseNumber": "A75/6"
+      },
+      "position": {
+        "lat": 10.81665,
+        "lng": 106.67103
+      },
+      "access": [
+        {
+          "lat": 10.81655,
+          "lng": 106.67056
+        }
+      ],
+      "distance": 77,
+      "categories": [
+        {
+          "id": "500-5100-0055",
+          "name": "Ký túc xá",
+          "primary": true
+        },
+        {
+          "id": "500-5000-0000",
+          "name": "Khách sạn hoặc nhà trọ",
+          "primary": false
+        },
+        {
+          "id": "500-5000-0053",
+          "name": "Khách sạn",
+          "primary": false
+        },
+        {
+          "id": "500-5100-0000",
+          "name": "Nhà nghỉ",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Mắt Kính BV Điện Biên Phủ",
+      "id": "here:pds:place:704w3gve-b440b61cc7ce4dbfa28aa92389b19fde",
+      "resultType": "place",
+      "address": {
+        "label": "Mắt Kính BV Điện Biên Phủ, 98 Đường Hồng Hà, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 2",
+        "street": "Đường Hồng Hà",
+        "postalCode": "72108",
+        "houseNumber": "98"
+      },
+      "position": {
+        "lat": 10.81312,
+        "lng": 106.66992
+      },
+      "access": [
+        {
+          "lat": 10.81313,
+          "lng": 106.66992
+        }
+      ],
+      "distance": 8,
+      "categories": [
+        {
+          "id": "800-8000-0161",
+          "name": "Chuyên gia nhãn khoa",
+          "primary": true
+        },
+        {
+          "id": "600-6900-0101",
+          "name": "Hoa \u0026 Đồ trang sức",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Cà Phê T\u0026H",
+      "id": "here:pds:place:704xjxn4-92bd088b5d7705675d7cc342ed3eb57b",
+      "resultType": "place",
+      "address": {
+        "label": "Cà Phê T\u0026H, 104 Đường Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 2",
+        "street": "Đường Phổ Quang",
+        "postalCode": "72108",
+        "houseNumber": "104"
+      },
+      "position": {
+        "lat": 10.8086,
+        "lng": 106.6697
+      },
+      "access": [
+        {
+          "lat": 10.80871,
+          "lng": 106.6697
+        }
+      ],
+      "distance": 14,
+      "categories": [
+        {
+          "id": "100-1100-0010",
+          "name": "Quán cà phê",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Nhà hàng",
+          "primary": false
+        },
+        {
+          "id": "100-1100-0000",
+          "name": "Cà Phê/Trà",
+          "primary": false
+        },
+        {
+          "id": "700-7400-0285",
+          "name": "Quán cà phê internet",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Minh Minh",
+      "id": "here:pds:place:704xjxn4-71e59aad4cba038d6000028d32aa19a5",
+      "resultType": "place",
+      "address": {
+        "label": "Minh Minh, 41 Hẻm 86/56 Đường Phổ Quang, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 2",
+        "street": "Hẻm 86/56 Đường Phổ Quang",
+        "postalCode": "72108",
+        "houseNumber": "41"
+      },
+      "position": {
+        "lat": 10.80786,
+        "lng": 106.67082
+      },
+      "access": [
+        {
+          "lat": 10.80815,
+          "lng": 106.67066
+        }
+      ],
+      "distance": 252,
+      "categories": [
+        {
+          "id": "400-4100-0041",
+          "name": "Dịch vụ vận chuyển",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Khách Sạn An Khương",
+      "id": "here:pds:place:704xjxn4-76e12c2207fc01d3520e49350c8a4d0b",
+      "resultType": "place",
+      "address": {
+        "label": "Khách Sạn An Khương, 124 Đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 9",
+        "street": "Đường Hồ Văn Huê",
+        "postalCode": "72216",
+        "houseNumber": "124"
+      },
+      "position": {
+        "lat": 10.80251,
+        "lng": 106.67656
+      },
+      "access": [
+        {
+          "lat": 10.80253,
+          "lng": 106.67652
+        }
+      ],
+      "distance": 6,
+      "categories": [
+        {
+          "id": "500-5100-0000",
+          "name": "Nhà nghỉ",
+          "primary": true
+        },
+        {
+          "id": "500-5000-0000",
+          "name": "Khách sạn hoặc nhà trọ",
+          "primary": false
+        },
+        {
+          "id": "500-5000-0053",
+          "name": "Khách sạn",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Công Ty Cổ Phần Phần Mềm Thịnh Phát",
+      "id": "here:pds:place:704w3gv6-9f69811aeef949da91b937f41f5c0cf7",
+      "resultType": "place",
+      "address": {
+        "label": "Công Ty Cổ Phần Phần Mềm Thịnh Phát, 109 Đường Cộng Hòa, Phường 12, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 12",
+        "street": "Đường Cộng Hòa",
+        "postalCode": "72111",
+        "houseNumber": "109"
+      },
+      "position": {
+        "lat": 10.8014,
+        "lng": 106.65239
+      },
+      "access": [
+        {
+          "lat": 10.80145,
+          "lng": 106.65239
+        }
+      ],
+      "distance": 6,
+      "categories": [
+        {
+          "id": "700-7250-0136",
+          "name": "Doanh nghiệp",
+          "primary": true
+        },
+        {
+          "id": "800-8200-0000",
+          "name": "Cơ sở giáo dục",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Kodak Express",
+      "id": "here:pds:place:704w3gv7-6db9229ca6f4aa75a83580684148468b",
+      "resultType": "place",
+      "address": {
+        "label": "Kodak Express, 293 Đường Phạm Văn Hai, Phường 5, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 5",
+        "street": "Đường Phạm Văn Hai",
+        "postalCode": "72119",
+        "houseNumber": "293"
+      },
+      "position": {
+        "lat": 10.78909,
+        "lng": 106.66071
+      },
+      "access": [
+        {
+          "lat": 10.78911,
+          "lng": 106.66067
+        }
+      ],
+      "distance": 2,
+      "categories": [
+        {
+          "id": "700-7450-0114",
+          "name": "Bưu điện",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Cửa Hàng ĐTDĐ Quyết Thắng",
+      "id": "here:pds:place:704w3gv7-5ecf3c9ce0c5432b90665e8d3b32217c",
+      "resultType": "place",
+      "address": {
+        "label": "Cửa Hàng ĐTDĐ Quyết Thắng, 227 Đường Trần Văn Đang, Phường 11, Quận 3, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận 3",
+        "district": "Phường 11",
+        "street": "Đường Trần Văn Đang",
+        "postalCode": "72411",
+        "houseNumber": "227"
+      },
+      "position": {
+        "lat": 10.78539,
+        "lng": 106.67131
+      },
+      "access": [
+        {
+          "lat": 10.78532,
+          "lng": 106.67124
+        }
+      ],
+      "distance": 6,
+      "categories": [
+        {
+          "id": "600-6900-0000",
+          "name": "Hàng tiêu dùng",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Tiệm Sửa Xe Phùng Hiệp",
+      "id": "here:pds:place:704w3gv7-c5ec42de1821593341499ba64f841c5b",
+      "resultType": "place",
+      "address": {
+        "label": "Tiệm Sửa Xe Phùng Hiệp, 305 Đường Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận 3",
+        "district": "Phường Võ Thị Sáu",
+        "street": "Đường Nam Kỳ Khởi Nghĩa",
+        "postalCode": "72415",
+        "houseNumber": "305"
+      },
+      "position": {
+        "lat": 10.79008,
+        "lng": 106.68358
+      },
+      "access": [
+        {
+          "lat": 10.7901,
+          "lng": 106.68358
+        }
+      ],
+      "distance": 8,
+      "categories": [
+        {
+          "id": "700-7200-0268",
+          "name": "Bảo dưỡng \u0026 bảo trì xe máy",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Vịt Gà Nướng Thảo Mộc Homefood",
+      "id": "here:pds:place:704w3gv7-c5c90735b6655e3fbb698130cdcad73f",
+      "resultType": "place",
+      "address": {
+        "label": "Vịt Gà Nướng Thảo Mộc Homefood, 58 Đường Bùi Hữu Nghĩa, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 1",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postalCode": "72318",
+        "houseNumber": "58"
+      },
+      "position": {
+        "lat": 10.795,
+        "lng": 106.69797
+      },
+      "access": [
+        {
+          "lat": 10.79501,
+          "lng": 106.69792
+        }
+      ],
+      "distance": 3,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Nhà hàng",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Pháp Bảo Mandala",
+      "id": "here:pds:place:704w3gve-0c5a78cb3922083cec307b2e63b98144",
+      "resultType": "place",
+      "address": {
+        "label": "Pháp Bảo Mandala, 55/108 Hẻm 55 Nguyễn Văn Công, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Gò Vấp",
+        "district": "Phường 3",
+        "street": "Hẻm 55 Nguyễn Văn Công",
+        "postalCode": "71409",
+        "houseNumber": "55/108"
+      },
+      "position": {
+        "lat": 10.82214,
+        "lng": 106.67656
+      },
+      "access": [
+        {
+          "lat": 10.82213,
+          "lng": 106.67665
+        }
+      ],
+      "distance": 122,
+      "categories": [
+        {
+          "id": "600-6900-0103",
+          "name": "Quà tặng, đồ cổ và tác phẩm nghệ thuật",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "THG Prima Times",
+      "id": "here:pds:place:7041968a-17b53ebcaa51c4a901c12c8dfac97bb1",
+      "resultType": "place",
+      "address": {
+        "label": "THG Prima Times, 10 Đường Lê Lợi, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Gò Vấp",
+        "district": "Phường 3",
+        "street": "Đường Lê Lợi",
+        "postalCode": "71409",
+        "houseNumber": "10"
+      },
+      "position": {
+        "lat": 10.8142,
+        "lng": 106.68255
+      },
+      "access": [
+        {
+          "lat": 10.81427,
+          "lng": 106.68251
+        }
+      ],
+      "distance": 51,
+      "categories": [
+        {
+          "id": "600-6900-0356",
+          "name": "Thợ kim hoàn",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Tiệm Sửa Xe Quốc Lủi",
+      "id": "here:pds:place:704xjxn4-3b712152e16408d92671584fdcdc80d3",
+      "resultType": "place",
+      "address": {
+        "label": "Tiệm Sửa Xe Quốc Lủi, 25 Đường Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Gò Vấp",
+        "district": "Phường 3",
+        "street": "Đường Nguyễn Kiệm",
+        "postalCode": "71409",
+        "houseNumber": "25"
+      },
+      "position": {
+        "lat": 10.81272,
+        "lng": 106.6786
+      },
+      "access": [
+        {
+          "lat": 10.81272,
+          "lng": 106.67858
+        }
+      ],
+      "distance": 4,
+      "categories": [
+        {
+          "id": "700-7850-0000",
+          "name": "Sửa chữa hoặc bảo dưỡng ô tô",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Cơm Tấm 261",
+      "id": "here:pds:place:704w3gvs-1db86b3880fc8e34fd270c0fe5511b88",
+      "resultType": "place",
+      "address": {
+        "label": "Cơm Tấm 261, 261 Đường Nguyễn Xí, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 13",
+        "street": "Đường Nguyễn Xí",
+        "postalCode": "72311",
+        "houseNumber": "261"
+      },
+      "position": {
+        "lat": 10.81996,
+        "lng": 106.70402
+      },
+      "access": [
+        {
+          "lat": 10.81995,
+          "lng": 106.70401
+        }
+      ],
+      "distance": 13,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Nhà hàng",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Khách Sạn Nguyễn Đức",
+      "id": "here:pds:place:704xjxn4-ace227a1448e074305a9a157a72b4414",
+      "resultType": "place",
+      "address": {
+        "label": "Khách Sạn Nguyễn Đức, A75/6 Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Tân Bình",
+        "district": "Phường 2",
+        "street": "Bạch Đằng",
+        "postalCode": "72108",
+        "houseNumber": "A75/6"
+      },
+      "position": {
+        "lat": 10.81665,
+        "lng": 106.67103
+      },
+      "access": [
+        {
+          "lat": 10.81655,
+          "lng": 106.67056
+        }
+      ],
+      "distance": 73,
+      "categories": [
+        {
+          "id": "500-5100-0055",
+          "name": "Ký túc xá",
+          "primary": true
+        },
+        {
+          "id": "500-5000-0000",
+          "name": "Khách sạn hoặc nhà trọ",
+          "primary": false
+        },
+        {
+          "id": "500-5000-0053",
+          "name": "Khách sạn",
+          "primary": false
+        },
+        {
+          "id": "500-5100-0000",
+          "name": "Nhà nghỉ",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Go Milk Tea Bánh Sầu Riêng",
+      "id": "here:pds:place:704w3gv7-6a7b4c790cf640bbac654e8315744ff3",
+      "resultType": "place",
+      "address": {
+        "label": "Go Milk Tea Bánh Sầu Riêng, 20 Đường Thích Quảng Đức, Phường 5, Quận Phú Nhuận, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Phú Nhuận",
+        "district": "Phường 5",
+        "street": "Đường Thích Quảng Đức",
+        "postalCode": "72215",
+        "houseNumber": "20"
+      },
+      "position": {
+        "lat": 10.80417,
+        "lng": 106.6838
+      },
+      "access": [
+        {
+          "lat": 10.80417,
+          "lng": 106.68378
+        }
+      ],
+      "distance": 4,
+      "categories": [
+        {
+          "id": "600-6300-0064",
+          "name": "Đặc sản \u0026 Đồ uống",
+          "primary": true
+        },
+        {
+          "id": "600-6300-0067",
+          "name": "Quầy hàng đặc sản",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Ăn Vặt Cat Moon",
+      "id": "here:pds:place:704w3gve-04b87cf9e68de438ffb3e9794c38d068",
+      "resultType": "place",
+      "address": {
+        "label": "Ăn Vặt Cat Moon, 119/4 Hẻm 119 Đường Số 7, Phường 3, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Gò Vấp",
+        "district": "Phường 3",
+        "street": "Hẻm 119 Đường Số 7",
+        "postalCode": "71409",
+        "houseNumber": "119/4"
+      },
+      "position": {
+        "lat": 10.81125,
+        "lng": 106.6817
+      },
+      "access": [
+        {
+          "lat": 10.81129,
+          "lng": 106.68171
+        }
+      ],
+      "distance": 42,
+      "categories": [
+        {
+          "id": "100-1000-0004",
+          "name": "Chợ/Gian hàng ẩm thực",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Sum-HKD T.T.Huy",
+      "id": "here:pds:place:704w3gve-ce2e972398384771bcc036fbc161f6df",
+      "resultType": "place",
+      "address": {
+        "label": "Sum-HKD T.T.Huy, 51 Hẻm 1 Đường Trần Bình Trọng, Phường 5, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 5",
+        "street": "Hẻm 1 Đường Trần Bình Trọng",
+        "postalCode": "72314",
+        "houseNumber": "51"
+      },
+      "position": {
+        "lat": 10.81284,
+        "lng": 106.68774
+      },
+      "access": [
+        {
+          "lat": 10.81287,
+          "lng": 106.68778
+        }
+      ],
+      "distance": 9,
+      "categories": [
+        {
+          "id": "600-6800-0000",
+          "name": "Quần áo \u0026 Phụ kiện",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Đại Lý Đông Thành",
+      "id": "here:pds:place:704w3gvk-d80246f71de728ab0d793d1fdd2d4371",
+      "resultType": "place",
+      "address": {
+        "label": "Đại Lý Đông Thành, 52 Đường Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 17",
+        "street": "Đường Xô Viết Nghệ Tĩnh",
+        "postalCode": "72321",
+        "houseNumber": "52"
+      },
+      "position": {
+        "lat": 10.79469,
+        "lng": 106.7093
+      },
+      "access": [
+        {
+          "lat": 10.79471,
+          "lng": 106.70926
+        }
+      ],
+      "distance": 5,
+      "categories": [
+        {
+          "id": "600-6500-0072",
+          "name": "Cửa hàng điện tử gia dụng",
+          "primary": true
+        },
+        {
+          "id": "600-6900-0096",
+          "name": "Cửa hàng chuyên dụng",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Cty Cổ Phần DV Bvệ Bình An",
+      "id": "here:pds:place:704w3gvk-9d390dc189c940f19daaeb5fd88f043c",
+      "resultType": "place",
+      "address": {
+        "label": "Cty Cổ Phần DV Bvệ Bình An, 125 Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 17",
+        "street": "Đường Nguyễn Cửu Vân",
+        "postalCode": "72321",
+        "houseNumber": "125"
+      },
+      "position": {
+        "lat": 10.79629,
+        "lng": 106.70587
+      },
+      "access": [
+        {
+          "lat": 10.79633,
+          "lng": 106.70589
+        }
+      ],
+      "distance": 6,
+      "categories": [
+        {
+          "id": "700-7250-0136",
+          "name": "Doanh nghiệp",
+          "primary": true
+        },
+        {
+          "id": "700-7400-0145",
+          "name": "Hãng môi giới bất động sản",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Tiệm Uốn Tóc Nhật Khánh",
+      "id": "here:pds:place:704w3gvk-5050d0fec4774a839a6c3192a87642e6",
+      "resultType": "place",
+      "address": {
+        "label": "Tiệm Uốn Tóc Nhật Khánh, 86 Đường Phan Văn Hân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 17",
+        "street": "Đường Phan Văn Hân",
+        "postalCode": "72321",
+        "houseNumber": "86"
+      },
+      "position": {
+        "lat": 10.79409,
+        "lng": 106.70468
+      },
+      "access": [
+        {
+          "lat": 10.7941,
+          "lng": 106.70468
+        }
+      ],
+      "distance": 3,
+      "categories": [
+        {
+          "id": "600-6950-0401",
+          "name": "Cửa hàng tóc thời trang",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "VPĐD Hacisco",
+      "id": "here:pds:place:704jx7ps-7d068d8561ad0a0348549f993a004ba3",
+      "resultType": "place",
+      "address": {
+        "label": "VPĐD Hacisco, 77 Hẻm 75 Đường Hoàng Sa, Phường Đa Kao, Quận 1, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận 1",
+        "district": "Phường Đa Kao",
+        "street": "Hẻm 75 Đường Hoàng Sa",
+        "postalCode": "71007",
+        "houseNumber": "77"
+      },
+      "position": {
+        "lat": 10.79231,
+        "lng": 106.70344
+      },
+      "access": [
+        {
+          "lat": 10.79237,
+          "lng": 106.70334
+        }
+      ],
+      "distance": 7,
+      "categories": [
+        {
+          "id": "700-7250-0136",
+          "name": "Doanh nghiệp",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Cửa Hàng Nét Đẹp",
+      "id": "here:pds:place:704b1497-66bd92dea7e73bf2b9976e41cf3d7ff5",
+      "resultType": "place",
+      "address": {
+        "label": "Cửa Hàng Nét Đẹp, 2 Đường Nguyễn Phi Khanh, Phường Tân Định, Quận 1, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận 1",
+        "district": "Phường Tân Định",
+        "street": "Đường Nguyễn Phi Khanh",
+        "postalCode": "71008",
+        "houseNumber": "2"
+      },
+      "position": {
+        "lat": 10.79187,
+        "lng": 106.6958
+      },
+      "access": [
+        {
+          "lat": 10.79182,
+          "lng": 106.6958
+        }
+      ],
+      "distance": 5,
+      "categories": [
+        {
+          "id": "600-6900-0098",
+          "name": "Cửa hàng bán buôn",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Làng Ẩm Thực Mũi Né",
+      "id": "here:pds:place:704xjxn4-d04e8c666f7407255c19c1f4a8f6b6c5",
+      "resultType": "place",
+      "address": {
+        "label": "Làng Ẩm Thực Mũi Né, 157 Đường Võ Thị Sáu, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận 3",
+        "district": "Phường Võ Thị Sáu",
+        "street": "Đường Võ Thị Sáu",
+        "postalCode": "72415",
+        "houseNumber": "157"
+      },
+      "position": {
+        "lat": 10.78509,
+        "lng": 106.68931
+      },
+      "access": [
+        {
+          "lat": 10.78513,
+          "lng": 106.68926
+        }
+      ],
+      "distance": 21,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Nhà hàng",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Hair Salon Minh Hương",
+      "id": "here:pds:place:704w3gvk-8744dd3ec52acf1f814beedb4b1eb11a",
+      "resultType": "place",
+      "address": {
+        "label": "Hair Salon Minh Hương, 71/31 Hẻm 71 Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 15",
+        "street": "Hẻm 71 Điện Biên Phủ",
+        "postalCode": "72320",
+        "houseNumber": "71/31"
+      },
+      "position": {
+        "lat": 10.79645,
+        "lng": 106.70128
+      },
+      "access": [
+        {
+          "lat": 10.79653,
+          "lng": 106.70136
+        }
+      ],
+      "distance": 22,
+      "categories": [
+        {
+          "id": "600-6950-0000",
+          "name": "Cắt tóc \u0026 Tạo mẫu",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Quán Cháo Vịt Gỏi Vịt",
+      "id": "here:pds:place:704w3gvk-0a27e0f898fe4bb6b6157e4d5a6bb926",
+      "resultType": "place",
+      "address": {
+        "label": "Quán Cháo Vịt Gỏi Vịt, 77 Đường Vũ Tùng, Phường 2, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 2",
+        "street": "Đường Vũ Tùng",
+        "postalCode": "72319",
+        "houseNumber": "77"
+      },
+      "position": {
+        "lat": 10.80213,
+        "lng": 106.70108
+      },
+      "access": [
+        {
+          "lat": 10.80205,
+          "lng": 106.70112
+        }
+      ],
+      "distance": 5,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Nhà hàng",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Đại Lý LPG-Gas Thành Công",
+      "id": "here:pds:place:704jx7ps-bda2ddecd6de013856b67b977ea5c1a2",
+      "resultType": "place",
+      "address": {
+        "label": "Đại Lý LPG-Gas Thành Công, 161 Đường Bùi Hữu Nghĩa, Phường 1, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 1",
+        "street": "Đường Bùi Hữu Nghĩa",
+        "postalCode": "72318",
+        "houseNumber": "161"
+      },
+      "position": {
+        "lat": 10.79767,
+        "lng": 106.69885
+      },
+      "access": [
+        {
+          "lat": 10.79764,
+          "lng": 106.69889
+        }
+      ],
+      "distance": 2,
+      "categories": [
+        {
+          "id": "600-6900-0096",
+          "name": "Cửa hàng chuyên dụng",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "HKD Dai Ly Viettel",
+      "id": "here:pds:place:704w3gvk-0c6077a522ed9e199f15fcdb50fddac0",
+      "resultType": "place",
+      "address": {
+        "label": "HKD Dai Ly Viettel, 154 Đường Vạn Kiếp, Phường 3, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 3",
+        "street": "Đường Vạn Kiếp",
+        "postalCode": "72317",
+        "houseNumber": "154"
+      },
+      "position": {
+        "lat": 10.79935,
+        "lng": 106.69351
+      },
+      "access": [
+        {
+          "lat": 10.79936,
+          "lng": 106.6936
+        }
+      ],
+      "distance": 6,
+      "categories": [
+        {
+          "id": "700-7100-0134",
+          "name": "Dịch vụ điện thoại",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Cửa Hàng Điện Thoại Lộc Tấn",
+      "id": "here:pds:place:704w3gvs-f7b42e175c184eac9aac030732f4a9ba",
+      "resultType": "place",
+      "address": {
+        "label": "Cửa Hàng Điện Thoại Lộc Tấn, 512 Đường Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 13",
+        "street": "Đường Nơ Trang Long",
+        "postalCode": "72311",
+        "houseNumber": "512"
+      },
+      "position": {
+        "lat": 10.82211,
+        "lng": 106.70691
+      },
+      "access": [
+        {
+          "lat": 10.82216,
+          "lng": 106.70685
+        }
+      ],
+      "distance": 22,
+      "categories": [
+        {
+          "id": "600-6900-0000",
+          "name": "Hàng tiêu dùng",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Satra Foods",
+      "id": "here:pds:place:704w3gvs-404ba2a7ace5092d6a655c2d6f255903",
+      "resultType": "place",
+      "address": {
+        "label": "Satra Foods, 2B Đường Bình Lợi, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 13",
+        "street": "Đường Bình Lợi",
+        "postalCode": "72311",
+        "houseNumber": "2B"
+      },
+      "position": {
+        "lat": 10.82541,
+        "lng": 106.70676
+      },
+      "access": [
+        {
+          "lat": 10.82538,
+          "lng": 106.70666
+        }
+      ],
+      "distance": 15,
+      "categories": [
+        {
+          "id": "600-6000-0061",
+          "name": "Cửa hàng tiện lợi",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Công Ty Cổ Phần Ctlink",
+      "id": "here:pds:place:704w3gvs-972ba196866c1f1ee7cae5f8fb58b432",
+      "resultType": "place",
+      "address": {
+        "label": "Công Ty Cổ Phần Ctlink, 39 Đường Đặng Thuỳ Trâm, Phường 13, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 13",
+        "street": "Đường Đặng Thuỳ Trâm",
+        "postalCode": "72311",
+        "houseNumber": "39"
+      },
+      "position": {
+        "lat": 10.82695,
+        "lng": 106.70301
+      },
+      "access": [
+        {
+          "lat": 10.82697,
+          "lng": 106.70318
+        }
+      ],
+      "distance": 17,
+      "categories": [
+        {
+          "id": "700-7450-0114",
+          "name": "Bưu điện",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Trafaw",
+      "id": "here:pds:place:704xjxn4-732d881e985400b6eda74a2e7b02a47f",
+      "resultType": "place",
+      "address": {
+        "label": "Trafaw, 348 Đường Phan Văn Trị, Phường 11, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 11",
+        "street": "Đường Phan Văn Trị",
+        "postalCode": "72313",
+        "houseNumber": "348"
+      },
+      "position": {
+        "lat": 10.82007,
+        "lng": 106.69434
+      },
+      "access": [
+        {
+          "lat": 10.82006,
+          "lng": 106.69431
+        }
+      ],
+      "distance": 12,
+      "categories": [
+        {
+          "id": "400-4100-0041",
+          "name": "Dịch vụ vận chuyển",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Tạp Chí Cánh Buồm",
+      "id": "here:pds:place:704w3gvk-a38ee74dc6d84c41a7ee34372acee8e3",
+      "resultType": "place",
+      "address": {
+        "label": "Tạp Chí Cánh Buồm, 90 Đường Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 22",
+        "street": "Đường Nguyễn Hữu Cảnh",
+        "postalCode": "72324",
+        "houseNumber": "90"
+      },
+      "position": {
+        "lat": 10.7895,
+        "lng": 106.71691
+      },
+      "access": [
+        {
+          "lat": 10.78948,
+          "lng": 106.71692
+        }
+      ],
+      "distance": 40,
+      "categories": [
+        {
+          "id": "700-7100-0000",
+          "name": "Liên lạc và truyền thông",
+          "primary": true
+        },
+        {
+          "id": "500-5100-0000",
+          "name": "Nhà nghỉ",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "title": "Công Ty Cổ Phần SX XD Maxxis",
+      "id": "here:pds:place:704w3gvk-a994bce8ede4bb608aacde4dffb24cdb",
+      "resultType": "place",
+      "address": {
+        "label": "Công Ty Cổ Phần SX XD Maxxis, 224 Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 25",
+        "street": "Đường Ung Văn Khiêm",
+        "postalCode": "72308",
+        "houseNumber": "224"
+      },
+      "position": {
+        "lat": 10.80508,
+        "lng": 106.7211
+      },
+      "access": [
+        {
+          "lat": 10.80509,
+          "lng": 106.72114
+        }
+      ],
+      "distance": 5,
+      "categories": [
+        {
+          "id": "700-7250-0136",
+          "name": "Doanh nghiệp",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Đại Lý Chu Văn An 3",
+      "id": "here:pds:place:704jx7ps-470d9d5900c6070679e58b39a08baf4f",
+      "resultType": "place",
+      "address": {
+        "label": "Đại Lý Chu Văn An 3, 217 Đường Chu Văn An, Phường 26, Quận Bình Thạnh, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Bình Thạnh",
+        "district": "Phường 26",
+        "street": "Đường Chu Văn An",
+        "postalCode": "72310",
+        "houseNumber": "217"
+      },
+      "position": {
+        "lat": 10.81115,
+        "lng": 106.7052
+      },
+      "access": [
+        {
+          "lat": 10.81119,
+          "lng": 106.7052
+        }
+      ],
+      "distance": 3,
+      "categories": [
+        {
+          "id": "700-7450-0114",
+          "name": "Bưu điện",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Gong Cha Phan Văn Trị",
+      "id": "here:pds:place:704w3gve-a94fefea7efb45e7805305b58897ab5e",
+      "resultType": "place",
+      "address": {
+        "label": "Gong Cha Phan Văn Trị, 595 Đường Phan Văn Trị, Phường 5, Quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+        "countryCode": "VNM",
+        "countryName": "Việt Nam",
+        "county": "Hồ Chí Minh",
+        "city": "Quận Gò Vấp",
+        "district": "Phường 5",
+        "street": "Đường Phan Văn Trị",
+        "postalCode": "71411",
+        "houseNumber": "595"
+      },
+      "position": {
+        "lat": 10.82617,
+        "lng": 106.68931
+      },
+      "access": [
+        {
+          "lat": 10.82623,
+          "lng": 106.68937
+        }
+      ],
+      "distance": 9,
+      "categories": [
+        {
+          "id": "100-1100-0010",
+          "name": "Quán cà phê",
+          "primary": true
+        }
+      ]
+    }
+  ]
